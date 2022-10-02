@@ -6,4 +6,4 @@ This screen is resizable but is recommended to keep it as the default size becau
  
  - On the right side of the screen are option including Empty, Metal, Sand, Water, and debug.
  - click on one and click in the pixelated screen.
- - As you see they will appear on the GUI and interact with each other based on the programs physics.
+ - As you see elements will appear on the GUI and interact with each other based on the programs physics.
